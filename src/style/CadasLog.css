@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Sora:wght@100;300;400&display=swap');
+
+body {
+    background-color: #1A1A1B;
+    font-size: 1.6rem;
+    font-family: "Sora";
+    color: #FFFFFF;
+  }
+  
+  .logoCadaslog{
+    align-items: center;
+    width: 150px;
+    margin-top: 20px;
+    margin-left: 4.7em;
+    margin-block-end: -3.8em;
+  }
+
+  .wellcome{
+      font-family: 'Sora';
+      font-weight: 100;
+      font-size: 50px;
+      text-align: center;
+      margin-left:auto;
+      margin-top: 45px;
+      margin-block-end: -0.5em;
+  }
+
+  .CadasLog-form-wrap {
+    width: 70%;
+    max-width: 400px;
+    margin: 30px auto;
+    text-align: center;
+    padding: 20px 0 0 0;
+    display: flex;
+    justify-content: space-around;
+    width: auto;
+  }
+
+  .cadastro-form1 {
+    padding: 0 60px;
+  }
+
+  .btn-cadastro1 {
+    border: border-width border-style border-color;
+    display: block;
+    border-color: #7051E2;
+    background-color: #1A1A1B;
+    color: #fff;
+    font-weight: bold;
+    font-family: 'Sora';
+    text-transform: uppercase;
+    cursor: pointer;
+    -webkit-transition: all 0.2s ease;
+    transition: all 0.2s ease;
+    font-size: 18px;
+    position: relative;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+    margin-bottom: 30px;
+    margin-top: 35px;
+    width: 100%;
+    padding: 20px;
+    border-radius: 45px;
+    margin-block-end: -0.2em;
+  }
+  .btn-cadastro1:hover {
+    background-color: #7051E2;
+    -webkit-transition: all 0.8s ease;
+    transition: all 0.8s ease;
+  }
+
+  .btn-login1 {
+    border: border-width border-style border-color;
+    display: block;
+    border-color: #7051E2;
+    background-color: #1A1A1B;
+    color: #fff;
+    font-weight: bold;
+    font-family: 'Sora';
+    text-transform: uppercase;
+    cursor: pointer;
+    -webkit-transition: all 0.2s ease;
+    transition: all 0.2s ease;
+    font-size: 18px;
+    position: relative;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+    margin-bottom: 30px;
+    margin-top: 35px;
+    width: 100%;
+    padding: 20px;
+    border-radius: 45px;
+  }
+  .btn-login1:hover {
+    background-color: #7051E2;
+    -webkit-transition: all 0.8s ease;
+    transition: all 0.8s ease;
+  }

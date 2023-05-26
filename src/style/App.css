@@ -1,0 +1,6 @@
+.App{
+  position: relative;
+  left: 35vw;
+  right: 35vw;
+  display: flex;
+}
